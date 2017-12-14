@@ -1,0 +1,12 @@
+{
+  "name": "pr-approval-emoji",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "clipboardy": "^1.2.2",
+    "date-fns": "^1.29.0",
+    "gemoji": "^4.2.0",
+    "lodash": "^4.17.4",
+    "sentiment": "^4.1.0"
+  }
+}
