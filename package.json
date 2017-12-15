@@ -1,7 +1,10 @@
 {
   "name": "pr-approval-emoji",
   "version": "1.0.0",
-  "private": true,
+  "main": "lib/index.js",
+  "bin": {
+    "pr-approval-emoji": "bin/pr-approval-emoji.js"
+  },
   "dependencies": {
     "clipboardy": "^1.2.2",
     "date-fns": "^1.29.0",
